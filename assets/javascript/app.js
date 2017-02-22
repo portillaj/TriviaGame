@@ -54,7 +54,7 @@ $(document).ready(function(){
 						 "The 1936 Olympic Conferences", 
 						 "The Washington Naval Conference", 
 						 "The Geneva Convention"],
-				gifPath: "assets/images/american-sniper.gif",
+				gifPath: "assets/images/munich.gif",
 				answer: 0
 			},
 			{
